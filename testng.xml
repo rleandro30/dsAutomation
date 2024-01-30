@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+    <test name="TestClassFindNearest">
+        <classes>
+            <class name="FindNearStoreTest"/>
+        </classes>
+    </test>
+
+    <test name="TestClassTopMenu">
+        <classes>
+            <class name="TopMenuTest"/>
+        </classes>
+    </test>
+</suite>

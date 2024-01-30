@@ -1,0 +1,8 @@
+searchByLocation,menuItem,subMenuItem
+,location,"Alpharetta, GA"
+searchByLocationAndUnitSize,menuItem,subMenuItem,menuItem,subMenuItem
+,location,"Alpharetta, GA",unitSize,Small
+searchByLocationUnitAndType,menuItem,subMenuItem,menuItem,subMenuItem
+,location,"Alpharetta, GA",storageType,Climate Control
+searchByLocationUnitSizeAndType,menuItem,subMenuItem,menuItem,subMenuItem,menuItem,subMenuItem
+,location,"Alpharetta, GA",unitSize,Small,storageType,Climate Control
